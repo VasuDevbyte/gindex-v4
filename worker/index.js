@@ -39,9 +39,9 @@ var themeOptions = {
   },
   render: {
     head_md: true,
-    head_md_link: `https://cdn.jsdelivr.net/gh/tks18/gindex-v4@v7.5.2/vuejs/dist/HEAD.md`,
+    head_md_link: `https://telegra.ph/MrVasu-04-17-5`,
     readme_md: true,
-    readme_md_link: "https://cdn.jsdelivr.net/gh/tks18/gindex-v4@v7.5.2/vuejs/dist/README.md",
+    readme_md_link: "https://telegra.ph/MrVasu-04-17-7",
     desc: true,
   }
 }
