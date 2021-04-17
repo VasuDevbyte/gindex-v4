@@ -1,10 +1,10 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "Glory to Heaven",
+  siteName: "Nedflix",
   hybridpass: "Copy Hybrid Password Generated from Backend",
-  version: "8.2.8",
-  frontendUrl: "https://glorytoheaven.tk",
-  github_name: "tks18",
+  version: "8.3.1",
+  frontendUrl: "https://nedflix.ga",
+  github_name: "VasuDevbyte",
   github_repo: "gindex-v4",
   favicon: "https://raw.githubusercontent.com/tks18/infozy/develop/favicon.ico",
   client_id: "client_id",
