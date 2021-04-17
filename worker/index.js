@@ -6,15 +6,15 @@ var authConfig = {
   frontendUrl: "https://nedflix.ga",
   github_name: "VasuDevbyte",
   github_repo: "gindex-v4",
-  favicon: "https://raw.githubusercontent.com/tks18/infozy/develop/favicon.ico",
-  client_id: "client_id",
-  backendSite: "http://localhost:3000",
-  client_secret: "client_id",
-  refresh_token: "refresh_token",
+  favicon: "https://telegra.ph/file/21d55297baeb7a2d14741.jpg",
+  client_id: "60686911755-g4ma4piulerqm0tjqp0096cmc13bbrt4.apps.googleusercontent.com",
+  backendSite: "https://nedflixbckngg.herokuapp.com",
+  client_secret: "0smbgUCDUVmuU0kjUh_DUetM",
+  refresh_token: "4/1AY0e-g7jXvTSh7kfBYmsmWFgxzsczvM1RlAu1yJ-Lh4Si8kkpaRfTIHD0Wk",
   roots: [
     {
-      id: "folder_id",
-      name: "Glory to Heaven",
+      id: "0AG0Z4Au11nbKUk9PVA",
+      name: "NeDflix",
       protect_file_link: true,
     }
   ],
@@ -28,14 +28,14 @@ var themeOptions = {
   languages: 'en',
   netflix_home: true, //If True Dont Forget to Fill in all the Required Details
   prefer_netflix_black: false,
-  loading_image: "https://i.ibb.co/bsqHW2w/Lamplight-Mobile.gif", // Max Width and Height - 250px. Do not Enter Images more than 250px wide.
+  loading_image: "https://media.tenor.com/images/24d159548ae39b9a3dc7b6fa1ac27c71/tenor.gif", // Max Width and Height - 250px. Do not Enter Images more than 250px wide.
   home_background_image: "https://assets.nflxext.com/ffe/siteui/vlv3/bd777948-0e8f-4f7f-b0bf-f7e0ee0875e5/cd5b9c59-183b-4b03-9caf-934bc11565b8/IN-en-20200627-popsignuptwoweeks-perspective_alpha_website_small.jpg",
   audio: {
-    default_poster: "https://i.ibb.co/Hx3ZqLm/giphy.gif",
+    default_poster: "https://telegra.ph/file/cb410b61ff5b04d29d8c1.jpg",
   },
   footer_data: {
     footer_logo: true,
-    footer_logo_link: "https://i.ibb.co/Hx3ZqLm/giphy.gif",
+    footer_logo_link: "https://media.tenor.com/images/38d33a5768926aba1af85edc5863ca21/tenor.gif",
   },
   render: {
     head_md: true,
